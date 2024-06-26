@@ -2,7 +2,7 @@
 ### 使用方式
 - 青龙
 ```shell
-ql repo https://github.com/iruochen/juejin_watch_ql.git "juejin" "" "sendNotify" "js"
+ql repo https://github.com/iruochen/juejin_watch.git "juejin" "" "sendNotify" "js"
 ```
 - 依赖安装
     - axios
