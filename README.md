@@ -1,9 +1,14 @@
 ## 掘金库存监控
 ### 使用方式
 - 青龙
-```shell
-ql repo https://github.com/iruochen/juejin_watch.git "juejin" "" "sendNotify" "js"
-```
+    - github
+    ```shell
+    ql repo https://github.com/iruochen/juejin_watch.git "juejin" "" "sendNotify"
+    ```
+    - gitee
+    ```shell
+    ql repo https://gitee.com/iruochen/juejin_watch.git "juejin" "" "sendNotify"
+    ```
 - 依赖安装
     - axios
     - dotenv
