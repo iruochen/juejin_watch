@@ -2,7 +2,6 @@ const axios = require('axios')
 const { sendNotify } = require('./sendNotify.js')
 const dotenv = require('dotenv')
 dotenv.config()
-const JUEJIN_WATCH = process.env.JUEJIN_WATCH || ''
 
 let msg = ''
 function sendNotifyFn(msg) {
